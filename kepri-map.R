@@ -38,4 +38,3 @@ ggplot(kepri_recap) +
     subtitle = paste("Per tanggal ", Sys.Date(), ". Sumber data (corona.kepriprov.go.id)"),
     fill = "Kota / Kabupaten"
   )
-  
