@@ -15,3 +15,19 @@ Total: 433
 [master 436f2d7] Update Dataset
  3 files changed, 25 insertions(+), 4 deletions(-)
  create mode 100644 overall.out
+[master 1bfe64f] Update Dataset
+ 1 file changed, 3 insertions(+)
+--------------------------------------------------
+Rekapitulasi COVID-19 di Kepulauan Riau
+Per tanggal 2020-08-05 Sumber: corona.keprigov.go.id
+--------------------------------------------------
+Karimun 7 1 6 0 
+Bintan 20 12 7 1 
+Natuna 0 0 0 0 
+Lingga 1 0 0 1 
+Kepulauan Anambas 0 0 0 0 
+Batam 333 67 252 14 
+Tanjung Pinang 72 43 26 3 
+--------------------------------------------------
+Total: 866
+--------------------------------------------------
