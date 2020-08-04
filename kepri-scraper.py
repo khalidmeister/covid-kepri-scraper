@@ -43,6 +43,6 @@ for wilayah in list_wilayah:
         print(data['data-to'], end=" ")
     print()
 print("-" * 50)
-print("Total:", df['total_positif'].sum())
+print("Total:", df['total_positif'].tail(7).sum())
 print("-" * 50)
 
